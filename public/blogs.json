@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover": "https://images.prothomalo.com/prothomalo-bangla%2F2024-03%2F98389331-8ca0-4b60-afb9-6707d5b3caa0%2F2021_USA_U19_final_wide_angle_boundary_shot_of_Prairie_View_field_standing_1024x683.jpg?auto=format%2Ccompress&fmt=webp&format=webp&dpr=1.0&q=70&w=640",
+        "title": "The Mystery of the Hidden Treasure",
+        "author": "John Doe",
+        "img": "https://secure.gravatar.com/avatar/bfe2a62310efef1e03a712b918785254?s=96&d=mm&r=g",
+        "posted_date": "2024-03-04",
+        "reading_time": 10,
+        "hashtags": ["mystery", "adventure", "treasure"]
+    },
+    {
+        "id": 2,
+        "cover": "https://assets.roar.media/assets/g0AVcgLDFhNtndVH_AP_376480440685-Suleimani-1573869517.jpg?w=1200",
+        "title": "The Secret Garden",
+        "author": "Jane Smith",
+        "img": "https://secure.gravatar.com/avatar/bfe2a62310efef1e03a712b918785254?s=96&d=mm&r=g",
+        "posted_date": "2024-03-03",
+        "reading_time": 15,
+        "hashtags": ["fiction", "nature", "magic"]
+    },
+    {
+        "id": 3,
+        "cover": "https://assets.roar.media/assets/LDLm7vH1aLq1Q1l5_654.jpg",
+        "title": "Cooking with Passion",
+        "author": "Chef Michael",
+        "img": "https://secure.gravatar.com/avatar/bfe2a62310efef1e03a712b918785254?s=96&d=mm&r=g",
+        "posted_date": "2024-03-02",
+        "reading_time": 20,
+        "hashtags": ["cooking", "recipes", "passion"]
+    },
+    {
+        "id": 4,
+        "cover": "https://cdn.pixabay.com/photo/2024/02/23/22/19/forest-8592899_1280.jpg",
+        "title": "The Art of Coding",
+        "author": "CodeMaster",
+        "img": "https://secure.gravatar.com/avatar/bfe2a62310efef1e03a712b918785254?s=96&d=mm&r=g",
+        "posted_date": "2024-03-01",
+        "reading_time": 25,
+        "hashtags": ["coding", "programming", "development"]
+    },
+    {
+        "id": 5,
+        "cover": "https://cdn.pixabay.com/photo/2024/03/01/19/57/airbus-8607152_960_720.jpg",
+        "title": "Exploring the Universe",
+        "author": "Astronomy Geek",
+        "img": "https://secure.gravatar.com/avatar/bfe2a62310efef1e03a712b918785254?s=96&d=mm&r=g",
+        "posted_date": "2024-02-29",
+        "reading_time": 30,
+        "hashtags": ["space", "science", "exploration"]
+    }
+]
